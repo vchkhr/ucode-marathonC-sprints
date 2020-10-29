@@ -1,0 +1,3 @@
+klist -c
+kinit vkharchenk@stud.khpi.ucode-connect.study
+kdestroy -A
