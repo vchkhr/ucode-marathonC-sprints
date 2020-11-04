@@ -1,9 +1,6 @@
 # ucode-marathonC-sprints
 ucode IT academy | Marathon C | Sprints 0-11
 
-## Skills
-Problem Solving, Analysis, Reasoning & Argumentation, Agility & Adaptability, Self-Management, UNIX, Git, Procedural Programming, Algorithms, C, Communication
-
 ## Topics
 |Name|Challenge|
 |-------------|----------------------------------------------------|
@@ -19,3 +16,6 @@ Problem Solving, Analysis, Reasoning & Argumentation, Agility & Adaptability, Se
 |Sprint09|Build programs using a Makefile|
 |Sprint10|Recode file-based system utilities|
 |Sprint11|Create a playlist manager using a linked list data structure|
+
+## Skills
+Problem Solving, Analysis, Reasoning & Argumentation, Agility & Adaptability, Self-Management, UNIX, Git, Procedural Programming, Algorithms, C, Communication.
